@@ -1,0 +1,11 @@
+.filterContact {
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+}
+
+.filterInput {
+  border: 1px solid;
+  width: 30%;
+  height: 30px;
+}
